@@ -2,8 +2,8 @@
 
 ## Inheritance
 
-This repository inherits all shared workspace instructions from the Dropbox
-root at `../../../INSTRUCTIONS.md`.
+This repository inherits all shared workspace instructions from
+`~/.claude/CLAUDE.md`.
 
 Read and follow that file before starting any task in this repository. Its
 workflow, engineering standards, validation phases, Graphify requirements, and

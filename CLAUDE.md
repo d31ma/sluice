@@ -1,6 +1,6 @@
 # CLAUDE.md - Sluice
 
-@../../../INSTRUCTIONS.md
+Shared workspace instructions: `~/.claude/CLAUDE.md` (Claude Code loads it in every session).
 @AGENTS.md
 
 Claude must read and follow the imported Dropbox-wide instructions and the
